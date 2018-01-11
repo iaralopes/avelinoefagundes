@@ -963,8 +963,8 @@ ul.nostyle i {
 ********* Footer ******
 ************************/
 #footer {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 2px;
+  padding-bottom: 2px;
   color: #fff;
   background: #2e2e2e;
 }
