@@ -1036,5 +1036,5 @@ font-size: 11px;
 }
 
 #footer .col-sm-offset-8 {
-    margin-left: 0;
+    margin-left: 0 !important;
 }
