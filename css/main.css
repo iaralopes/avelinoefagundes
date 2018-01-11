@@ -1026,3 +1026,11 @@ section#contato h3 {
 .wpb_column.column_container.col-sm-4 {
     padding: 0 0 0 77px;
 }
+
+#footer ul.social-icons {
+    display: none;
+}
+
+#footer {
+font-size: 11px;
+}
